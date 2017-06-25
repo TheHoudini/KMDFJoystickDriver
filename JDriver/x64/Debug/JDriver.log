@@ -1,0 +1,27 @@
+﻿  Building 'JDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Debug\JDriver.inf [Version] section with DriverVer=06/01/2017,14.44.50.621
+E:\Dev\JDriver\JDriver\JDriver\JDriver.inf(62-62): warning 2083: Section [jdriver_service_inst] not referenced or used.
+  driver.c
+  hid.c
+  usb.c
+  Создание кода...
+  JDriver.vcxproj -> E:\Dev\JDriver\JDriver\x64\Debug\JDriver.sys
+  JDriver.vcxproj -> E:\Dev\JDriver\JDriver\x64\Debug\JDriver.pdb (Full PDB)
+  Done Adding Additional Store
+  Successfully signed: E:\Dev\JDriver\JDriver\x64\Debug\JDriver.sys
+  
+  Driver is a Universal Driver.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  E:\Dev\JDriver\JDriver\x64\Debug\JDriver\jdriver.cat
+  Done Adding Additional Store
+  Successfully signed: E:\Dev\JDriver\JDriver\x64\Debug\JDriver\jdriver.cat
+  
